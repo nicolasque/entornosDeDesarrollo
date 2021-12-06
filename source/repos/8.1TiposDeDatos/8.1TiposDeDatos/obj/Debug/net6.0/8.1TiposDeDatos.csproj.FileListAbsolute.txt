@@ -1,0 +1,15 @@
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\bin\Debug\net6.0\8.1TiposDeDatos.exe
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\bin\Debug\net6.0\8.1TiposDeDatos.deps.json
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\bin\Debug\net6.0\8.1TiposDeDatos.runtimeconfig.json
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\bin\Debug\net6.0\8.1TiposDeDatos.dll
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\bin\Debug\net6.0\ref\8.1TiposDeDatos.dll
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\bin\Debug\net6.0\8.1TiposDeDatos.pdb
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.AssemblyInfo.cs
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.dll
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\ref\8.1TiposDeDatos.dll
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.pdb
+C:\Users\Abdon\source\repos\8.1TiposDeDatos\8.1TiposDeDatos\obj\Debug\net6.0\8.1TiposDeDatos.genruntimeconfig.cache

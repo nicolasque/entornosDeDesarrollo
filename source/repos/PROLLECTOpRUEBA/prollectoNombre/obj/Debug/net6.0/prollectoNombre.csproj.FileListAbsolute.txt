@@ -1,0 +1,15 @@
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\bin\Debug\net6.0\prollectoNombre.exe
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\bin\Debug\net6.0\prollectoNombre.deps.json
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\bin\Debug\net6.0\prollectoNombre.runtimeconfig.json
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\bin\Debug\net6.0\prollectoNombre.dll
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\bin\Debug\net6.0\ref\prollectoNombre.dll
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\bin\Debug\net6.0\prollectoNombre.pdb
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.csproj.AssemblyReference.cache
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.AssemblyInfoInputs.cache
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.AssemblyInfo.cs
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.csproj.CoreCompileInputs.cache
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.dll
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\ref\prollectoNombre.dll
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.pdb
+C:\Users\Abdon\source\repos\PROLLECTOpRUEBA\prollectoNombre\obj\Debug\net6.0\prollectoNombre.genruntimeconfig.cache
